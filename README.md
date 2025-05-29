@@ -24,11 +24,11 @@ A formação tem como objetivo capacitar profissionais para:
 ### ✅ Módulo 2: Modelagem de Dados
 
 - [x] Fundamentos de Modelagem e Projeto de Banco de Dados
-- [ ] Modelo de Entidade Relacionamento com Banco de Dados
-- [ ] Modelo Relacionamento de Entidade Aprimorado com Banco de Dados
-- [ ] Refinando um Projeto Conceitual de Banco de Dados – E-commerce
-- [ ] Construindo um Esquema Conceitual para Banco de Dados
-- [ ] Material Complementar: Modelagem com MER
+- [x] Modelo de Entidade Relacionamento com Banco de Dados
+- [x] Modelo Relacionamento de Entidade Aprimorado com Banco de Dados
+- [x] Refinando um Projeto Conceitual de Banco de Dados – E-commerce
+- [x] Construindo um Esquema Conceitual para Banco de Dados
+- [x] Material Complementar: Modelagem com MER
 
 ### ✅ Módulo 3: Linguagem SQL
 
