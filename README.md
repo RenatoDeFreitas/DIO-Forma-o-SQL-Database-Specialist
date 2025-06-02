@@ -32,7 +32,7 @@ A formação tem como objetivo capacitar profissionais para:
 
 ### ✅ Módulo 3: Linguagem SQL
 
-- [ ] Modelagem Relacional e Mapeamento Relacional com Banco de Dados
+- [x] Modelagem Relacional e Mapeamento Relacional com Banco de Dados
 - [ ] Primeiros Passos com SQL
 - [ ] Explorando Queries com SQL
 - [ ] Criando Queries com Funções e Cláusulas de Agrupamentos
